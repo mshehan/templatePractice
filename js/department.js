@@ -8,7 +8,7 @@
 // 05-13-2016
  */
 $(document).ready(function () {
-    $.getJSON("assign7files/department.json", function (data) {
+    $.getJSON("json/department.json", function (data) {
         var dept = "{{#depts}}<h2>{{name}}</h2>"
             + "<p>{{#employees}}{{>employee}}{{/employees}}</p>"
             + "{{/depts}}";
