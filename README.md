@@ -6,6 +6,6 @@
 <h1>js</h1>
 <br>contains: 
   <br>department.js - this file is the JS required to create the website
-  <br>mustache.min.js - this is pulled from <a src="https://github.com/janl/mustache.js/">mustache.js on github</a>
+  <br>mustache.min.js - this is pulled from <a href="https://github.com/janl/mustache.js/">mustache.js on github</a>
 <h1>json</h1>
   this folder contains the json file required for the formatting to work. 
