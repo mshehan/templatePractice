@@ -1,0 +1,26 @@
+/*
+/Matthew Shehan
+//mshehan@my.smccd.edu
+//CIS 
+//114 OL
+//department.css
+//assignment 7
+// 05-13-2016
+ */
+body {
+    font: 100% Calibri;
+    margin: 1em;
+    padding: 1em;
+}
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+} 
+h2 {
+    font-size: 1.8em;
+    font-weight: bold;
+} 
+img {
+    padding: 0.5em 2em;
+    vertical-align: middle;
+}

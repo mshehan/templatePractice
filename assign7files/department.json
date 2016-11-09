@@ -1,0 +1,124 @@
+{
+  "depts": [
+    {
+      "name": "Accounting",
+      "employees": [
+        {
+          "firstName": "Angela",
+          "lastName": "Martin",
+          "title": "Senior Accountant",
+          "pic": "photos/Angela_Martin.jpg"
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Malone",
+          "title": "Accountant",
+          "pic": "photos/Kevin_Malone.jpg"
+        },
+        {
+          "firstName": "Oscar",
+          "lastName": "Martinez",
+          "title": "Accountant",
+          "pic": "photos/Oscar_Martinez.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "employees": [
+        {
+          "firstName": "Kelly",
+          "lastName": "Kapoor",
+          "title": "Customer Service Rep.",
+          "pic": "photos/Kelly_Kapoor.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "employees": [
+        {
+          "firstName": "Toby",
+          "lastName": "Flenderson",
+          "title": "Human Resources Manager",
+          "pic": "photos/Toby_Flenderson.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Management",
+      "employees": [
+        {
+          "firstName": "Ryan",
+          "lastName": "Howard",
+          "title": "Vice President, North East",
+          "pic": "photos/Ryan_Howard.jpg"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Scott",
+          "title": "Regional Manager",
+          "pic": "photos/Michael_Scott.jpg"
+        },
+        {
+          "firstName": "Dwight",
+          "lastName": "Schrute",
+          "title": "Assistant Regional Manager",
+          "pic": "photos/Dwight_Schrute.jpg"
+        },
+        {
+          "firstName": "Jim",
+          "lastName": "Halpert",
+          "title": "Assistant Regional Manager",
+          "pic": "photos/Jim_Halpert.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sales",
+      "employees": [
+        {
+          "firstName": "Andy",
+          "lastName": "Bernard",
+          "title": "Sales Director",
+          "pic": "photos/Andy_Bernard.jpg"
+        },
+        {
+          "firstName": "Phyllis",
+          "lastName": "Lapin",
+          "title": "Sales Representative",
+          "pic": "photos/Phyllis_Lapin.jpg"
+        },
+        {
+          "firstName": "Stanley",
+          "lastName": "Hudson",
+          "title": "Sales Representative",
+          "pic": "photos/Stanley_Hudson.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "employees": [
+        {
+          "firstName": "Pamela",
+          "lastName": "Beesly",
+          "title": "Receptionist",
+          "pic": "photos/Pamela_Beesly.jpg"
+        },
+        {
+          "firstName": "Creed",
+          "lastName": "Bratton",
+          "title": "Quality Assurance",
+          "pic": "photos/Creed_Bratton.jpg"
+        },
+        {
+          "firstName": "Meredith",
+          "lastName": "Palmer",
+          "title": "Supplier Relations",
+          "pic": "photos/Meredith_Palmer.jpg"
+        }
+      ]
+    }
+  ]
+}
