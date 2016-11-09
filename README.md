@@ -1,11 +1,11 @@
 # templatePractice
-<b>CSS</b>
-  containes the formatting for the project
-<b>images</b>
-  contains the image files for the project
-<b>js</b>
-contains: 
-  department.js - this file is the JS required to create the website
-  mustache.min.js - this is pulled from <a src="https://github.com/janl/mustache.js/">mustache.js on github</a>
-<b>json</b>
+<h1>CSS</h1>
+  <br>containes the formatting for the project
+<h1>images</h1>
+  <br>contains the image files for the project
+<h1>js</h1>
+<br>contains: 
+  <br>department.js - this file is the JS required to create the website
+  <br>mustache.min.js - this is pulled from <a src="https://github.com/janl/mustache.js/">mustache.js on github</a>
+<h1>json</h1>
   this folder contains the json file required for the formatting to work. 
